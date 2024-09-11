@@ -1,0 +1,18 @@
+# Ignore Python virtual environment
+/.venv/
+
+# Ignore Jupyter notebook output
+.ipynb_checkpoints/
+
+# Ignore Python bytecode
+*.pyc
+*.pyo
+
+# Ignore local configuration files
+config.json
+
+# Ignore logs
+logs/
+
+# Ignore data files
+data/
